@@ -1,0 +1,5 @@
+Estos son los paso para trabajar con GIT:
+
+1. Crear un repositorio local
+2. Crear un repositorio remoto
+3. Crear un repositorio remoto en el local
