@@ -1,0 +1,10 @@
+Este es un cuento sobre GITMAN:
+
+Los capitulos son:
+
+-Introduccion
+-Intalacion
+-Configuracion
+-Comandos Basicos
+-Nuevos comandos
+
